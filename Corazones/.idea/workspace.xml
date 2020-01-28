@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="dec65123-d703-4f70-9953-e988abefe871" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1WyOnJSIJCc4bWGdGh0TflZCGMU" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VamonosAtomos" />
+    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Github\EjerciciosAccesoDatos\Corazones\src\xml" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\EjerciciosAccesoDatos\Corazones\src\es\iesnervion\rmanzano" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="1.8" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="es.iesnervion.rmanzano.Main" />
+      <module name="Corazones" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1580200487747">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="137" y="20" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580200487747" />
+    <state x="447" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1580118796767">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="447" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580118796767" />
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1580204404507">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="413" y="112" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580204404507" />
+    <state x="471" y="194" key="#com.intellij.ws.xml.jaxb.GenerateJavaFromJAXBSchemasDialog" timestamp="1580204415657">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="471" y="194" key="#com.intellij.ws.xml.jaxb.GenerateJavaFromJAXBSchemasDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580204415657" />
+    <state x="463" y="120" key="FileChooserDialogImpl" timestamp="1580201285407">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580201285407" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1580208633977">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580208633977" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1580208633976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580208633976" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1580208633976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580208633976" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1580208633976">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580208633976" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1580208633977">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580208633977" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1580208633977">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580208633977" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1580208633977">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580208633977" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1580208633977">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580208633977" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1580201039587">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580201039587" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580200784818">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580200784818" />
+    <state x="405" y="277" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580204402600">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="405" y="277" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580204402600" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/es/iesnervion/rmanzano/Main.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="2" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

@@ -58,7 +58,7 @@ import javax.xml.datatype.XMLGregorianCalendar;
  * 
  */
 @XmlAccessorType(XmlAccessType.FIELD)
-@XmlType(name = "TipoPersona", propOrder = {
+@XmlType(name = "TipoPersonaYPreferencias", propOrder = {
     "id",
     "nombre",
     "sexo",
@@ -67,10 +67,10 @@ import javax.xml.datatype.XMLGregorianCalendar;
     "ingresos",
     "preferencias"
 })
-public class TipoPersona {
+public class TipoPersonaYPreferencias {
 
     @XmlElement(name = "ID")
-    protected short id;
+    protected Integer id;
     @XmlElement(required = true)
     protected String nombre;
     @XmlElement(required = true)
@@ -82,13 +82,13 @@ public class TipoPersona {
     protected XMLGregorianCalendar fechaNacimiento;
     protected float ingresos;
     @XmlElement(name = "Preferencias", required = true)
-    protected TipoPersona.Preferencias preferencias;
+    protected TipoPersonaYPreferencias.Preferencias preferencias;
 
     /**
      * Obtiene el valor de la propiedad id.
      * 
      */
-    public short getID() {
+    public Integer getID() {
         return id;
     }
 
@@ -96,7 +96,7 @@ public class TipoPersona {
      * Define el valor de la propiedad id.
      * 
      */
-    public void setID(short value) {
+    public void setID(Integer value) {
         this.id = value;
     }
 
@@ -217,10 +217,10 @@ public class TipoPersona {
      * 
      * @return
      *     possible object is
-     *     {@link TipoPersona.Preferencias }
+     *     {@link TipoPersonaYPreferencias.Preferencias }
      *     
      */
-    public TipoPersona.Preferencias getPreferencias() {
+    public TipoPersonaYPreferencias.Preferencias getPreferencias() {
         return preferencias;
     }
 
@@ -229,10 +229,10 @@ public class TipoPersona {
      * 
      * @param value
      *     allowed object is
-     *     {@link TipoPersona.Preferencias }
+     *     {@link TipoPersonaYPreferencias.Preferencias }
      *     
      */
-    public void setPreferencias(TipoPersona.Preferencias value) {
+    public void setPreferencias(TipoPersonaYPreferencias.Preferencias value) {
         this.preferencias = value;
     }
 
@@ -274,7 +274,7 @@ public class TipoPersona {
     public static class Preferencias {
 
         @XmlElement(name = "Gusto")
-        protected List<TipoPersona.Preferencias.Gusto> gusto;
+        protected List<TipoPersonaYPreferencias.Preferencias.Gusto> gusto;
 
         /**
          * Gets the value of the gusto property.
@@ -294,13 +294,13 @@ public class TipoPersona {
          * 
          * <p>
          * Objects of the following type(s) are allowed in the list
-         * {@link TipoPersona.Preferencias.Gusto }
+         * {@link TipoPersonaYPreferencias.Preferencias.Gusto }
          * 
          * 
          */
-        public List<TipoPersona.Preferencias.Gusto> getGusto() {
+        public List<TipoPersonaYPreferencias.Preferencias.Gusto> getGusto() {
             if (gusto == null) {
-                gusto = new ArrayList<TipoPersona.Preferencias.Gusto>();
+                gusto = new ArrayList<TipoPersonaYPreferencias.Preferencias.Gusto>();
             }
             return this.gusto;
         }

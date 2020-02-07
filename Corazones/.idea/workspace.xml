@@ -21,7 +21,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../VamonosAtomos" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RecentsManager">
@@ -71,22 +71,22 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="463" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580201285407" />
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1580208633977">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom" timestamp="1580301492670">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580208633977" />
-    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1580208633976">
+    <state width="1323" height="179" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580301492670" />
+    <state width="1323" height="179" key="GridCell.Tab.0.center" timestamp="1580301492670">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580208633976" />
-    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1580208633976">
+    <state width="1323" height="179" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580301492670" />
+    <state width="1323" height="179" key="GridCell.Tab.0.left" timestamp="1580301492670">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580208633976" />
-    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1580208633976">
+    <state width="1323" height="179" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580301492670" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right" timestamp="1580301492670">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580208633976" />
+    <state width="1323" height="179" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580301492670" />
     <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1580208633977">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
@@ -107,24 +107,21 @@
       <screen x="0" y="0" width="1366" height="728" />
     </state>
     <state x="184" y="7" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580201039587" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580200784818">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580459917467">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580200784818" />
-    <state x="405" y="277" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580204402600">
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580459917467" />
+    <state x="1359" y="0" width="697" height="735" key="dock-window-1" timestamp="1580299820314">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1359" y="0" width="697" height="735" key="dock-window-1/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580299820314" />
+    <state x="2042" y="0" width="697" height="735" key="dock-window-2" timestamp="1580299809255">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="2042" y="0" width="697" height="735" key="dock-window-2/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580299809255" />
+    <state x="405" y="277" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1580299966647">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="405" y="277" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580204402600" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/es/iesnervion/rmanzano/Main.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <state x="405" y="277" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580299966647" />
   </component>
 </project>

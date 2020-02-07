@@ -37,7 +37,7 @@ import javax.xml.bind.annotation.XmlType;
 public class Corazoncitos {
 
     @XmlElement(name = "Persona")
-    protected List<TipoPersona> persona;
+    protected List<TipoPersonaYPreferencias> persona;
 
     /**
      * Gets the value of the persona property.
@@ -57,13 +57,13 @@ public class Corazoncitos {
      * 
      * <p>
      * Objects of the following type(s) are allowed in the list
-     * {@link TipoPersona }
+     * {@link TipoPersonaYPreferencias }
      * 
      * 
      */
-    public List<TipoPersona> getPersona() {
+    public List<TipoPersonaYPreferencias> getPersona() {
         if (persona == null) {
-            persona = new ArrayList<TipoPersona>();
+            persona = new ArrayList<TipoPersonaYPreferencias>();
         }
         return this.persona;
     }

@@ -28,7 +28,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Corazones" />
     <property name="project.structure.last.edited" value="Libraries" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
@@ -57,10 +57,15 @@
       <screen x="1366" y="0" width="1366" height="728" />
     </state>
     <state x="1837" y="194" key="#com.intellij.ws.xml.jaxb.GenerateJavaFromJAXBSchemasDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1580202055182" />
-    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580118508126">
-      <screen x="0" y="0" width="1366" height="728" />
+    <state x="1829" y="120" key="FileChooserDialogImpl" timestamp="1580299068781">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1829" y="120" key="FileChooserDialogImpl/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1580299068781" />
+    <state x="1745" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1580299060137">
+      <screen x="1366" y="0" width="1366" height="728" />
     </state>
     <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1580118508126" />
+    <state x="1745" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@1366.0.1366.728" timestamp="1580299060137" />
     <state x="350" y="0" key="new project wizard" timestamp="1580118532954">
       <screen x="0" y="0" width="1366" height="728" />
     </state>

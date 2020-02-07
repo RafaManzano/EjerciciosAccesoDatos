@@ -1,7 +1,7 @@
 package manejadora;
 
 import clase.Corazoncitos;
-import clase.TipoPersona;
+import clase.TipoPersonaYPreferencias;
 
 import javax.xml.bind.JAXBContext;
 import javax.xml.bind.JAXBException;
@@ -34,7 +34,7 @@ public class ManejadoraJAXB {
             Unmarshaller u = contexto.createUnmarshaller();
             adicionales = (Corazoncitos) u.unmarshal(archivoXML);
 
-            for(TipoPersona persona:adicionales.getPersona()){
+            for(TipoPersonaYPreferencias persona:adicionales.getPersona()){
 
                 corazones.getPersona().add(persona);
             }
@@ -42,6 +42,10 @@ public class ManejadoraJAXB {
         }catch (Exception ex) {
             ex.printStackTrace();
         }
+    }
+
+    public void ordenarCorazonesPorID() {
+        corazones.getPersona().sort((a,b) -> a.getID().compareTo(b.getID()));
     }
 
     public void guardarCorazonesFelices(File archivoXML){

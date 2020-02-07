@@ -3,16 +3,16 @@
   <xs:element name="Corazoncitos">
     <xs:complexType>
       <xs:sequence>
-        <xs:element name="Persona" type ="TipoPersona" maxOccurs="unbounded" minOccurs="0">
+        <xs:element name="Persona" type ="TipoPersonaYPreferencias" maxOccurs="unbounded" minOccurs="0">
         </xs:element>
       </xs:sequence>
     </xs:complexType>
   </xs:element>
 
 
-  <xs:complexType name="TipoPersona">
+  <xs:complexType name="TipoPersonaYPreferencias">
     <xs:sequence>
-      <xs:element type="xs:short" name="ID"/>
+      <xs:element type="xs:integer" name="ID"/>
       <xs:element type="xs:string" name="nombre"/>
       <xs:element type="xs:string" name="sexo"/>
       <xs:element type="xs:string" name="sexoBuscado"/>

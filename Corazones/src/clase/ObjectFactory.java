@@ -30,19 +30,19 @@ public class ObjectFactory {
     }
 
     /**
-     * Create an instance of {@link TipoPersona }
+     * Create an instance of {@link TipoPersonaYPreferencias }
      * 
      */
-    public TipoPersona createTipoPersona() {
-        return new TipoPersona();
+    public TipoPersonaYPreferencias createTipoPersona() {
+        return new TipoPersonaYPreferencias();
     }
 
     /**
-     * Create an instance of {@link TipoPersona.Preferencias }
+     * Create an instance of {@link TipoPersonaYPreferencias.Preferencias }
      * 
      */
-    public TipoPersona.Preferencias createTipoPersonaPreferencias() {
-        return new TipoPersona.Preferencias();
+    public TipoPersonaYPreferencias.Preferencias createTipoPersonaPreferencias() {
+        return new TipoPersonaYPreferencias.Preferencias();
     }
 
     /**
@@ -54,11 +54,11 @@ public class ObjectFactory {
     }
 
     /**
-     * Create an instance of {@link TipoPersona.Preferencias.Gusto }
+     * Create an instance of {@link TipoPersonaYPreferencias.Preferencias.Gusto }
      * 
      */
-    public TipoPersona.Preferencias.Gusto createTipoPersonaPreferenciasGusto() {
-        return new TipoPersona.Preferencias.Gusto();
+    public TipoPersonaYPreferencias.Preferencias.Gusto createTipoPersonaPreferenciasGusto() {
+        return new TipoPersonaYPreferencias.Preferencias.Gusto();
     }
 
 }

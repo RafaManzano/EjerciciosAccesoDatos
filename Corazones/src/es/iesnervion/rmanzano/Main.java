@@ -14,6 +14,7 @@ public class Main {
 
         manejadora.abrirListaCorazones(origen1);
         manejadora.anhadirNuevosCorazones(origen2);
+        manejadora.ordenarCorazonesPorID();
         manejadora.guardarCorazonesFelices(destino);
     }
 }

@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="d39ba4b4-73d3-4aa0-8027-e44efc43842f" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1XefRtaKh38I2AS38PjoTZQ6usk" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/xml" />
+    <property name="settings.editor.selected.configurable" value="consents" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Github\EjerciciosAccesoDatos\Recetas\src\xml" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\Github\EjerciciosAccesoDatos\Recetas\src\xml" />
+      <recent name="D:\Github\EjerciciosAccesoDatos\Recetas\src\es\iesnervion\rmanzano\xml" />
+      <recent name="D:\Github\EjerciciosAccesoDatos\Recetas\src\es\iesnervion\rmanzano" />
+    </key>
+  </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="main.Main" />
+      <module name="Recetas" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <RunnerSettings RunnerId="Run" />
+      <ConfigurationWrapper RunnerId="Run" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="450" y="168" key="#com.intellij.fileTypes.FileTypeChooser" timestamp="1581411837002">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="450" y="168" key="#com.intellij.fileTypes.FileTypeChooser/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1581411837002" />
+    <state x="1854" y="81" key="#com.intellij.ide.util.MemberChooser" timestamp="1581413427591">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1854" y="81" key="#com.intellij.ide.util.MemberChooser/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1581413427591" />
+    <state x="471" y="194" key="#com.intellij.ws.xml.jaxb.GenerateJavaFromJAXBSchemasDialog" timestamp="1581411922409">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="471" y="194" key="#com.intellij.ws.xml.jaxb.GenerateJavaFromJAXBSchemasDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1581411922409" />
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom" timestamp="1581415540377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1581415540377" />
+    <state width="1323" height="223" key="GridCell.Tab.0.center" timestamp="1581415540377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1581415540377" />
+    <state width="1323" height="223" key="GridCell.Tab.0.left" timestamp="1581415540377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1581415540377" />
+    <state width="1323" height="223" key="GridCell.Tab.0.right" timestamp="1581415540377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.0.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1581415540377" />
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom" timestamp="1581415540377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.bottom/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1581415540377" />
+    <state width="1323" height="223" key="GridCell.Tab.1.center" timestamp="1581415540377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.center/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1581415540377" />
+    <state width="1323" height="223" key="GridCell.Tab.1.left" timestamp="1581415540377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.left/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1581415540377" />
+    <state width="1323" height="223" key="GridCell.Tab.1.right" timestamp="1581415540377">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state width="1323" height="223" key="GridCell.Tab.1.right/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1581415540377" />
+    <state x="184" y="7" key="SettingsEditor" timestamp="1582619369965">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="184" y="7" key="SettingsEditor/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1582619369965" />
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog" timestamp="1582619288972">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="379" y="189" key="com.intellij.ide.util.TipDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1582619288972" />
+    <state x="335" y="-20" width="1009" height="713" maximized="true" key="dock-window-1" timestamp="1581414682663">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="335" y="-20" width="1009" height="713" maximized="true" key="dock-window-1/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1581414682663" />
+    <state x="341" y="0" key="new project wizard" timestamp="1582619462855">
+      <screen x="0" y="0" width="1366" height="728" />
+    </state>
+    <state x="341" y="0" key="new project wizard/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1582619462855" />
+    <state x="1771" y="277" key="vcs.readOnlyHandler.ReadOnlyStatusDialog" timestamp="1581412672849">
+      <screen x="1366" y="0" width="1366" height="728" />
+    </state>
+    <state x="1771" y="277" key="vcs.readOnlyHandler.ReadOnlyStatusDialog/0.0.1366.728/1366.0.1366.728@0.0.1366.728" timestamp="1581412672849" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/manejadora/Manejadora.java</url>
+          <line>81</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/main/Main.java</url>
+          <line>16</line>
+          <option name="timeStamp" value="7" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="Application">
+        <watch expression="recetas" language="JAVA" />
+        <watch expression="recetas.receta.get(2).medicamento" />
+        <watch expression="recetas" language="JAVA" />
+      </configuration>
+    </watches-manager>
+  </component>
+</project>

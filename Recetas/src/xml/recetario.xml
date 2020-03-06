@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<recetario>
+    <receta id="1">
+        <tipo>Ordinaria</tipo>
+        <medico numcol="1111">
+            <nombre>Santiago Loquequiero</nombre>
+            <especialidad>Pediatra</especialidad>
+        </medico>
+        <fecha>14/4/2010</fecha>
+        <medicamento>
+            <nombre>Dalsy</nombre>
+            <laboratorio>Pitufin</laboratorio>
+            <presentacion>Jarabe 250 ml</presentacion>
+        </medicamento>
+        <alternativo ord="1">
+            <medicamento>
+                <nombre>AntiFever</nombre>
+                <laboratorio>McDouglas</laboratorio>
+                <presentacion>Jarabe 500 ml</presentacion>
+            </medicamento>
+        </alternativo>
+        <alternativo ord="2">
+            <medicamento>
+                <nombre>Fibralgin</nombre>
+                <laboratorio>Caligari</laboratorio>
+                <presentacion>Inyectable</presentacion>
+            </medicamento>
+        </alternativo>
+    </receta>
+    <receta id="2">
+        <tipo>Droga dura</tipo>
+        <medico numcol="2222">
+            <nombre>Roberto Matito</nombre>
+            <especialidad>Dermatologo</especialidad>
+        </medico>
+        <fecha>25/06/2010</fecha>
+        <medicamento>
+            <nombre>Cremita hidratante</nombre>
+            <laboratorio>Suavin</laboratorio>
+            <presentacion>Tubo</presentacion>
+        </medicamento>
+        <alternativo ord="1">
+            <medicamento>
+                <nombre>Fineskin</nombre>
+                <laboratorio>Happy Cacatua</laboratorio>
+                <presentacion>Tarro</presentacion>
+            </medicamento>
+        </alternativo>
+    </receta>
+    <receta id="5">
+        <tipo>3</tipo>
+        <medico numcol="333">
+            <nombre>Armando elTaco</nombre>
+            <especialidad>Ginecologo</especialidad>
+        </medico>
+        <fecha>11/02/2020</fecha>
+        <medicamento>
+            <nombre>Cremita Fresquita</nombre>
+            <laboratorio>Laboratorio Sevillanas</laboratorio>
+            <presentacion>Tubo</presentacion>
+        </medicamento>
+        <alternativo ord="1">
+            <medicamento>
+                <nombre>Cremita Calentita</nombre>
+                <laboratorio>Laboratorio Sevillanas</laboratorio>
+                <presentacion>Tubo</presentacion>
+            </medicamento>
+        </alternativo>
+        <alternativo ord="2">
+            <medicamento>
+                <nombre>Pomadita</nombre>
+                <laboratorio>Laboratorio La Giralda</laboratorio>
+                <presentacion>Bote</presentacion>
+            </medicamento>
+        </alternativo>
+    </receta>
+</recetario>

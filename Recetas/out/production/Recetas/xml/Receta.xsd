@@ -1,0 +1,52 @@
+<xs:schema attributeFormDefault="unqualified" elementFormDefault="qualified" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:element name="recetario">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="receta" maxOccurs="unbounded" minOccurs="0" type="receta">
+                </xs:element>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="receta">
+        <xs:sequence>
+            <xs:element type="xs:string" name="tipo"/>
+            <xs:element name="medico" maxOccurs="1" minOccurs="1" type="medico">
+
+            </xs:element>
+            <xs:element type="xs:string" name="fecha"/>
+            <xs:element name="medicamento"  type="medicamento">
+            </xs:element>
+            <xs:element name="alternativo" maxOccurs="unbounded" minOccurs="0">
+                <xs:complexType>
+                    <xs:sequence>
+                        <xs:element name="medicamento">
+                            <xs:complexType>
+                                <xs:sequence>
+                                    <xs:element type="xs:string" name="nombre"/>
+                                    <xs:element type="xs:string" name="laboratorio"/>
+                                    <xs:element type="xs:string" name="presentacion"/>
+                                </xs:sequence>
+                            </xs:complexType>
+                        </xs:element>
+                    </xs:sequence>
+                    <xs:attribute type="xs:byte" name="ord" use="optional"/>
+                </xs:complexType>
+            </xs:element>
+        </xs:sequence>
+        <xs:attribute type="xs:byte" name="id" use="optional"/>
+    </xs:complexType>
+    <xs:complexType name="medico">
+        <xs:sequence>
+            <xs:element type="xs:string" name="nombre"/>
+            <xs:element type="xs:string" name="especialidad"/>
+        </xs:sequence>
+        <xs:attribute type="xs:short" name="numcol" use="optional"/>
+    </xs:complexType>
+    <xs:complexType name="medicamento">
+        <xs:sequence>
+            <xs:element type="xs:string" name="nombre"/>
+            <xs:element type="xs:string" name="laboratorio"/>
+            <xs:element type="xs:string" name="presentacion"/>
+        </xs:sequence>
+    </xs:complexType>
+</xs:schema>
